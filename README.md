@@ -1,0 +1,1 @@
+# ceph-committee-template
